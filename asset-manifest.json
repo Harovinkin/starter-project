@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Harovinkin/starter-project/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Harovinkin/starter-project/static/js/main.21717301.chunk.js",
+    "main.js.map": "/Harovinkin/starter-project/static/js/main.21717301.chunk.js.map",
+    "runtime-main.js": "/Harovinkin/starter-project/static/js/runtime-main.a8a00984.js",
+    "runtime-main.js.map": "/Harovinkin/starter-project/static/js/runtime-main.a8a00984.js.map",
+    "static/js/2.3dacc5e3.chunk.js": "/Harovinkin/starter-project/static/js/2.3dacc5e3.chunk.js",
+    "static/js/2.3dacc5e3.chunk.js.map": "/Harovinkin/starter-project/static/js/2.3dacc5e3.chunk.js.map",
+    "static/js/3.dc70ed08.chunk.js": "/Harovinkin/starter-project/static/js/3.dc70ed08.chunk.js",
+    "static/js/3.dc70ed08.chunk.js.map": "/Harovinkin/starter-project/static/js/3.dc70ed08.chunk.js.map",
+    "index.html": "/Harovinkin/starter-project/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Harovinkin/starter-project/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3dacc5e3.chunk.js.LICENSE.txt": "/Harovinkin/starter-project/static/js/2.3dacc5e3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Harovinkin/starter-project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8a00984.js",
+    "static/js/2.3dacc5e3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.21717301.chunk.js"
+  ]
+}
